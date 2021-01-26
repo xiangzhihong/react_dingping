@@ -1,3 +1,7 @@
+# 运行效果
+![ABC](https://github.com/xiangzhihong/react_dingping/blob/master/screen/1.png)
+![ABC](https://github.com/xiangzhihong/react_dingping/blob/master/screen/2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
